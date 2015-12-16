@@ -1,0 +1,2 @@
+{"argv": ["python", "-m", "ipdbkernel", "-f", "{connection_file}"],
+ "display_name": "IPython debugger"}
